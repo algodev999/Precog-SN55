@@ -147,7 +147,8 @@ This project runs as a **Bittensor subnet** (miners and validators). There is no
 ## 📬 Contact
 
 - **Subnet:** CoinMetrics Precog — Testnet UID: 256 · Mainnet UID: 55  
-- **Authors:** Coin Metrics, Yuma Group  
+- **Authors:** PJS
+- **Emails:** cpalvarez95999@gmail.com 
 - **Resources:** [Bittensor Docs](https://docs.bittensor.com/) · [CoinMetrics](https://charts.coinmetrics.io/crypto-data/)
 
 ---
